@@ -20,3 +20,5 @@
 - **Tailwind CSS**: برای طراحی رابط کاربری واکنش‌گرا و سبک
 - **Vanilla JavaScript**: برای مدیریت منطق محاسباتی
 - **HTML5**: ساختار صفحات
+![cal](https://github.com/user-attachments/assets/71afe2bd-667d-45db-94d1-7b1e101f6160)
+![cal2](https://github.com/user-attachments/assets/6d3d142a-bb56-4636-8741-921203462c78)
